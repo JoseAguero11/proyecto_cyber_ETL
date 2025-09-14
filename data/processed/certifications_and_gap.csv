@@ -1,0 +1,11 @@
+Provider,Certification_Abbreviation,Certification_Name,Cost_USD
+(ISC)²,CISSP,Certified Information Systems Security Professional,749
+ISACA,CISA,Certified Information Systems Auditor,"575 members, 760 non-members"
+ISACA,CISM,Certified Information Security Manager,"575 members, 760 non-members"
+CompTIA,Security+,CompTIA Security+,381
+EC-Council,CEH,Certified Ethical Hacker,"950 to 1,199"
+GIAC,GSEC,GIAC Security Essentials Certification,2499
+(ISC)²,SSCP,Systems Security Certified Practitioner,249
+CompTIA,CASP+,CompTIA Advanced Security Practitioner,480
+GIAC,GCIH,GIAC Certified Incident Handler,2499
+Offensive Security,OSCP,Offensive Security Certified Professional,"999 to 5,499"
