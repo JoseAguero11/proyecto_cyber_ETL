@@ -1,0 +1,22 @@
+# Entornos Virtuales
+/env/
+/venv/
+/.venv/
+
+# Archivos de credenciales
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de datos (ignora todo el contenido dentro de ellas)
+/data/raw/*
+/data/processed/*
+
+# Archivos del editor y del sistema operativo
+.vscode/
+.DS_Store
+Thumbs.db
